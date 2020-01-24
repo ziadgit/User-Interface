@@ -1,0 +1,137 @@
+#callout
+{
+	display: inline-block;
+	padding: 55px;
+	width: 500px;
+}
+#foot
+{
+	box-sizing: border-box;
+	padding: 20px 0 20px 0;
+	width: 900px;
+}
+#foot p
+{
+	text-align: center;
+}
+#hero
+{
+	margin-top: 140px;
+}
+#heroimage
+{
+	display: inline-block;
+	padding-left: 120px;
+}
+#logo
+{width:183px;
+    height:72px;
+   margin-left:20px;
+	box-sizing: border-box;
+	display: inline-block;
+   
+}
+#main
+{
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	box-sizing: border-box;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+#main h2
+{
+	display: inline-block;
+	padding-top: 25px;
+}
+#main img
+{
+	display: inline-block;
+	padding-top: 25px;
+}
+#main p
+{
+	display: inline-block;
+}
+#start
+{
+	border: 1px solid black;
+	box-sizing: border-box;
+	display: inline-block;
+	height: 40px;
+	margin-left: 100px;
+	margin-top: 5px;
+	padding: 10px;
+	text-align: center;
+	width: 185px;
+}
+#start a
+{
+	color: black;
+	display: inline-block;
+	text-decoration: none;
+}
+.mycontent
+{
+	margin: auto;
+	max-width: 1024px;
+}
+#nav-container
+{   background: white;
+	box-sizing: border-box;
+    float: left;
+    width:1024px;
+    height: 90px;
+    position: fixed;
+	top: 0;
+}
+.threecard
+{
+	box-sizing: border-box;
+	display: inline-block;
+	margin-right: 15px;
+	width: 25%;
+}
+.twocard
+{
+	box-sizing: border-box;
+	display: inline-block;
+	margin-right: 15px;
+	width: 40%;
+}
+h1
+{
+	box-sizing: border-box;
+	display: inline-block;
+	font-family: 'Bangers', cursive;
+	font-size: 75px;
+	letter-spacing: 2px;
+	text-align: center;
+}
+img
+{
+	display: inline;
+}
+nav
+{
+	background-color: #333;
+	box-sizing: border-box;
+	display: inline-block;
+	
+	height: 90px;
+    width: 760px;
+   
+}
+nav a
+{
+	color: rgb(160,160,160);
+	display: inline-block;
+	font-size: 14px;
+	margin-left: 70px;
+	margin-top: 45px;
+	text-decoration: none;
+}
+p
+{
+	font-family: 'Roboto';
+}
